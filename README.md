@@ -1,6 +1,6 @@
 # OP-SAFT-README
 
-## INTRODUCTION
+## Introduction
 
 Hi, thanks for stopping by. In this repo, you'll find the One-Page Simple Agreement for Future Tokens (the “OP SAFT”)---a free, alpha version, work-in-progress draft of an agreement meant to introduce efficiencies to the early-stage investment process in the digital asset space. A common complaint I've been hearing from founders, venture capitalists, and angel investors alike is that the standard early-stake digital asset investment model---effectuated by a simple agreement for future tokens---is too cumbersome, time consuming, and costly. Neither side wants to be stuck reading dozens of pages of legal jargon and, honestly, lawyers charge too much to review them. Thus, the OP SAFT was born. 
 
@@ -8,11 +8,11 @@ The OP SAFT is designed to be remarkably simple; it provides investors with the 
 
 Feel free to use these docs to your heart's content; all I ask is that you make your changes publicly available. We should be collaborative, not competitive to a fault in this nascent industry. 
 
-Importantly, the OP SAFT is designed to be a starting point only and should be tailored to meet your specific requirements. Consult an attorney before entering into any binding legal obligations in connection with this OP SAFT. This OP SAFT should not be construed as legal advice for any particular facts or circumstances.
+Importantly, the OP SAFT is designed to be a starting point only and should be tailored to meet your specific requirements. Consult an attorney before entering into any binding legal obligations in connection with this OP SAFT. ***This OP SAFT should not be construed as legal advice for any particular facts or circumstances.***
 
 Special shout-outs to @xethalis for the idea and @lex-node for his incredibly valuable contributions. 
 
-## ASSUMPTIONS
+## Assumptions
 
 The OP SAFT makes certain assumptions critical to its use. Below is a bulleted list of some of these assumptions. I already said this, but please consult an attorney before relying on this OP SAFT or entering into any binding legal obligations. Seriously--—there’s a nonzero risk that this document fails to include terms or conditions material to a grant of tokens from both a legal and business perspective. Use this at your own risk. 
 
@@ -34,9 +34,10 @@ If you are an attorney, software developer, or both, your comments would be welc
 
 Many thanks to these contributors:
 
-Gabe Shapiro (https://twitter.com/lex_node)
-Greg Xethalis (https://twitter.com/xethalis)
+* Gabe Shapiro (https://twitter.com/lex_node)
 
-##About the Author
+* Greg Xethalis (https://twitter.com/xethalis)
+
+## About the Author
 
 Brandon Ferrick is an attorney licensed to practice law in the state of New York. Brandon currently serves as the general counsel for Injective Labs (https://injectivelabs.org). More about him may be found at https://t.co/xF0JQrMKsp?amp=1.
