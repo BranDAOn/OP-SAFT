@@ -1,6 +1,6 @@
 ***Preliminary Note***
 
-This One-Page Simple Agreement for Future Tokens Annex (this “Annex”) is an annex of legal terms and provisions to be incorporated by reference into the One-Page Simple Agreement for Future Tokens. This Annex is designed to be a starting point only and should be tailored to meet your specific business and requirements for the relevant jurisdictions and applicable laws. This Annex should not be construed as legal advice for any particular facts or circumstances.
+*This One-Page Simple Agreement for Future Tokens Annex (this “Annex”) is an annex of legal terms and provisions to be incorporated by reference into the One-Page Simple Agreement for Future Tokens. This Annex is designed to be a starting point only and should be tailored to meet your specific business and requirements for the relevant jurisdictions and applicable laws. This Annex should not be construed as legal advice for any particular facts or circumstances.*
 
 # ONE-PAGE SIMPLE AGREEMENT FOR FUTURE TOKENS ANNEX
 
