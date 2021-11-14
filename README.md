@@ -8,9 +8,7 @@ The OP SAFT is designed to be remarkably simple; it provides investors with the 
 
 Feel free to use these docs to your heart's content; all I ask is that you make your changes publicly available. We should be collaborative, not competitive to a fault in this nascent industry. 
 
-Importantly, the OP SAFT is designed to be a starting point only and should be tailored to meet your specific requirements. Consult an attorney before entering into any binding legal obligations in connection with this OP SAFT. ***This OP SAFT should not be construed as legal advice for any particular facts or circumstances.***
-
-Special shout-outs to @xethalis for the idea and @lex-node for his incredibly valuable contributions. 
+Importantly, the OP SAFT is designed to be a starting point only and should be tailored to meet your specific requirements. Consult an attorney before entering into any binding legal obligations in connection with this OP SAFT. ***This OP SAFT should not be construed as legal advice for any particular facts or circumstances.*** Legal minds differ with respect to whether token distributions can be made in the current regulatory environment without bearing *some* degree of legal risk in the United States. Some folks take the position that there is literally no way to do a fully "compliant" general distribution of tokens without some degree of risk in the United States. Thus, it bears repeating: please consult an attorney before using this form.
 
 ## Assumptions
 
@@ -20,12 +18,13 @@ This OP SAFT assumes, among other things, that:
 
 1. The Company is a U.S. based software development firm;
 2. The Investor is a not a U.S. person;
-3. The Token Issuer is a foundation or non-profit entity with a relevant business relationship with the Company;
+3. The Token Issuer is a foundation or non-profit entity separate from the Company with a relevant business relationship with the Company (although the Annex does provide for the situation where the Company and the Token Issuer are one in the same);
 4. The Token Issuer will assume the token delivery obligation while the Company receives the payment in consideration for such future tokens (i.e., the Company issues to the Investor the right to Tokens to be issued by the Token Issuer);
-5. Token value is not known at the time of execution of the SAFT, but rather a discount is applied (i.e., price is determined upon a Next Token Pricing or Public Distribution Event);
-6. The parties agree that there should be a lockup;
-7. Staking is available for the underlying protocol; and
-8. The Investor will be subject to certain KYC and AML obligations. 
+5. The Token Issuer (assuming it is separate from the Company), has a robust, disinterested board empowered to decline the requests of the Company;
+6. Token value is not known at the time of execution of the SAFT, but rather a discount is applied (i.e., price is determined upon a Next Token Pricing or Public Distribution Event);
+7. The parties agree that there should be a lockup;
+8. Staking is available for the underlying protocol; and
+9. The Investor will be subject to certain KYC and AML obligations. 
 
 
 ## Contributors / Contributions Welcome
