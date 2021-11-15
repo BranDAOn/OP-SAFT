@@ -4,7 +4,7 @@
 
 Hi, thanks for stopping by. In this repo, you'll find the One-Page Simple Agreement for Future Tokens (the “OP SAFT”). The OP SAFT is a free, alpha version, work-in-progress draft of an agreement meant to introduce efficiencies to the early-stage investment process in the digital asset space. A common complaint I've been hearing from founders, venture capitalists, and angel investors alike is that the standard early-stake digital asset investment model (effectuated by a simple agreement for future tokens) is too cumbersome, time consuming, and costly. Neither side wants to be stuck reading dozens of pages of legal jargon and, honestly, lawyers charge too much to review them. Thus, the OP SAFT was born. 
 
-The OP SAFT is designed to be remarkably simple; it provides investors with the essential deal terms they need to make a token-related investment decision and ease burgeoning companies’ administrative burden of tracking ongoing obligations. Essentially, the OP SAFT provides for three things: (i) the check size and token allotment, (ii) the token delivery triggers, and (iii) a lock-up. Nearly all definitions and “legal” terms are incorporated by reference from an open source glossary and annex available in this repo. The glossary and annex are designed to allow the digital asset community to coalesce around standardized definitions and terms while permitting parties to publicly fork the same for bespoke transaction considerations. The openness of the repos also facilitates growth within the digital asset community by allowing the community to collaborate on ideas in a pseudo-public domain. 
+The OP SAFT is designed to be remarkably simple; it provides investors with the essential deal terms they need to make a token-related investment decision and eases burgeoning companies’ administrative burden of tracking ongoing obligations. Essentially, the OP SAFT provides for three things: (i) the check size and token allotment, (ii) the token delivery triggers, and (iii) a lock-up. Nearly all definitions and “legal” terms (e.g., a restricted securities legend (to the extent applicable) assignment rights, and representations/warranties) are incorporated by reference from an open source glossary and annex available in this repo. The glossary and annex are designed to allow the digital asset community to coalesce around standardized definitions and terms while permitting parties to publicly fork the same for bespoke transaction considerations. The openness of the repos also facilitates growth within the digital asset community by allowing the community to collaborate on ideas in a pseudo-public domain. 
 
 Feel free to use these docs to your heart's content; all I ask is that you make your changes publicly available. We should be collaborative, not competitive to a fault in this nascent industry. 
 
@@ -24,7 +24,7 @@ This OP SAFT assumes, among other things, that:
 6. Token value is not known at the time of execution of the SAFT, but rather a discount is applied (i.e., price is determined upon a Next Token Pricing or Public Distribution Event);
 7. The parties agree that there should be a lockup;
 8. Staking is available for the underlying protocol; and
-9. The Investor will be subject to certain KYC and AML obligations. 
+9. The Investor will be subject to certain KYC and AML obligations.
 
 
 ## Contributors / Contributions Welcome
