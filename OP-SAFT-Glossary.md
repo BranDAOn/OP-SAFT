@@ -37,7 +37,7 @@
 
 “Restricted Security” or “Restricted Securities” mean “restricted securities” as defined in 17 CFR § 230.144(a)(3).
 
-“SAFT” means {an agreement containing a future right to Tokens, similar in form and content to this SAFT, purchased by investors for the purpose of funding the Company’s business operations}/{an agreement containing a future right to units of Tokens purchased by Purchasers, similar in form and content to this agreement, which a significant portion of the amount raised under the SAFTs will be used to fund the Company’s development of a decentralized blockchain-based computer network (the “{Network}”) that enables {describe the end goal, function and utility of the proposed Network}}.
+“SAFT” means an agreement containing a future right to units of Tokens purchased by Purchasers, similar in form and content to this agreement, which a significant portion of the amount raised under the SAFTs will be used to fund the Company’s development of a decentralized blockchain-based computer network (the “{Network}”) that enables {describe the end goal, function and utility of the proposed Network}.
 
 “SAFT Round” means that series of SAFTs issued or to be issued by the Company to investors with similar terms and on substantially the same form as set forth herein (except that the terms set forth in these definitions may differ).
 
