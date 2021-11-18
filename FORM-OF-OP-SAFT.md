@@ -29,7 +29,7 @@
   
 {34}% of the Restricted Interests shall be released from the Lockup restrictions set forth in  Section 2(a) on the {eighteenth (18) month} anniversary of the Next Token Pricing or Public Distribution Event. 
   
-Notwithstanding the Lockup, the Investor may stake its Restricted Interests in accordance with the whitepaper, available at {**URL**} (the “**Staking Mechanism**”). The Investor agrees that it will not Transfer any tokens distributed to the Investor pursuant to the Staking Mechanism (such Tokens, referred to herein as the “**Staking Rewards**” and such restriction on  transfer, the “**Staking Reward Restrictions**”); provided that one-hundred percent (100%) of the Staking Rewards shall be released from the Staking Reward Restrictions on the one (1) year anniversary of the  distribution of such Staking Rewards.
+Notwithstanding the Lockup, the Investor may stake its Restricted Interests in accordance with the whitepaper applicable to the Tokens, available at {**URL**} (the “**Staking Mechanism**”). The Investor agrees that it will not Transfer any Tokens distributed to the Investor pursuant to the Staking Mechanism (such Tokens, referred to herein as the “**Staking Rewards**” and such restriction on  transfer, the “**Staking Reward Restrictions**”); provided that one-hundred percent (100%) of the Staking Rewards shall be released from the Staking Reward Restrictions on the one (1) year anniversary of the distribution of such Staking Rewards.
 
 {*Signature page follows.*}
 
