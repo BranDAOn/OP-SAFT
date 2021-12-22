@@ -38,11 +38,11 @@ THIS INSTRUMENT AND ANY TOKENS ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED
 
 - (c) In the event the Investor receives the Future Token Rights pursuant to Section 1(a), the Investor acknowledges the additional provisions set forth on Exhibit A attached hereto.
 
-## 6. Intellectual Property
+## 5. Intellectual Property
 
 The Investor hereby grants a perpetual, irrevocable, non-assignable, worldwide and royalty-free license to the Company and the Token Issuer, and their Affiliates to publicize or otherwise disclose the Investor’s name, profile, logo or credentials in ordinary marketing and communication materials and social media posts relating to the announcement of the closing of this SAFT Round.
 
-## 5. Miscellaneous 
+## 6. Miscellaneous 
 
 - (a) In the event the Company sells or issues (i) any instruments or securities exchangeable, exercisable or convertible into the items in clause (1) of the definition of “Tokens”, or (ii) any instruments, securities, documents, agreements, understandings, contracts or arrangements that provide for the right to receive the items in clause (1) of the definition of “Tokens”, in each case, at any time prior to the Qualifying Token Sale, the Company shall provide the Investor with written notice of such sale or issuance no later than 15 days after the closing date thereof, including the price and terms of such convertible instruments (the “***Subsequent Instruments***”). In the event the Investor determines, in its sole and absolute discretion, that any Subsequent Instrument contains terms more favorable to the holder(s) thereof than the terms set forth in this OP SAFT, the Investor may elect to exchange this OP SAFT for such Subsequent Instrument.
 
